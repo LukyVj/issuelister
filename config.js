@@ -4,10 +4,10 @@ var config = {
     type: 'users',
     
     // github name
-    name: 'LukyVj',
+    name: 'lukyvj',
     
     // date and time format
-    datetimeformat: 'DD.MM.YYYY HH:mm',
+    datetimeformat: 'DD/MM/YYYY HH:mm',
     
     // see different console.log statements
     debug: false
