@@ -1,10 +1,10 @@
 var config = {
     
     // github user (users) or organisation (orgs)
-    type: 'orgs',
+    type: 'user',
     
     // github name
-    name: 'bullgit',
+    name: 'lukyvj',
     
     // date and time format
     datetimeformat: 'DD.MM.YYYY HH:mm',
