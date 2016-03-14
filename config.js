@@ -1,7 +1,7 @@
 var config = {
     
     // github user (users) or organisation (orgs)
-    type: 'user',
+    type: 'users',
     
     // github name
     name: 'LukyVj',
