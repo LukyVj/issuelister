@@ -118,9 +118,9 @@ ul.issues .issue .type-pr span {
 .detail {
   -webkit-transform: translateX(40em);
   transform: translateX(40em);
-  transition: -webkit-transform cubic-bezier(.37,.9,.44,-0.19) 0.3s;
-  transition: transform cubic-bezier(.37,.9,.44,-0.19) 0.3s;
-  transition: transform cubic-bezier(.37,.9,.44,-0.19) 0.3s, -webkit-transform cubic-bezier(.37,.9,.44,-0.19) 0.3s;
+  transition: -webkit-transform cubic-bezier(.42,0,1,1) 0.3s;
+  transition: transform cubic-bezier(.42,0,1,1) 0.3s;
+  transition: transform cubic-bezier(.42,0,1,1) 0.3s, -webkit-transform cubic-bezier(.42,0,1,1) 0.3s;
   width: 100%;
   max-width: 40em;
   position: fixed;
