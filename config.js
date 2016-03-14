@@ -4,7 +4,7 @@ var config = {
     type: 'users',
     
     // github name
-    name: 'lukyvj',
+    name: 'LukyVj',
     
     // date and time format
     datetimeformat: 'DD/MM/YYYY HH:mm',
